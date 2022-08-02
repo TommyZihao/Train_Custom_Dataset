@@ -12,7 +12,7 @@
 
 https://www.bilibili.com/video/BV1za411Y7Zm
 
-## 文本生成
+## 大模型摘要生成
 
 https://www.bilibili.com/video/BV1W44y1g7cB
 
