@@ -12,28 +12,21 @@
 
 ### 构建自己的图像分类数据集
 
-- melon17瓜果图像分类数据集
-
-包括17个类别：苦瓜、冬瓜、南瓜、人参果、羊角蜜、哈密瓜、白兰瓜、西瓜、佛手瓜、丝瓜、西葫芦、黄瓜、木瓜、甜瓜-白、甜瓜-伊丽莎白、甜瓜-金、甜瓜-绿
-
-数据集下载链接：
-
-[melon17_full.zip（未划分训练测试集）](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20220716-mmclassification/dataset/melon17/melon17_full.zip)
-
-[melon17_split.zip（划分训练测试集）](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20220716-mmclassification/dataset/melon17/melon17_split.zip)
-
-- Arch28建筑风格图像分类数据集
-
-
 ### 【Pytorch】ImageNet预训练图像分类模型预测
 
 单张图像、视频、摄像头画面
 
 ### 【Pytorch】迁移学习Fine-tune训练自己的图像分类模型
 
+迁移学习Fine-tuning训练、测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
+
 ### 【Pytorch】模型部署（智能手机、开发板）
 
 ### 【MMClassification】迁移学习Fine-tune训练自己的图像分类模型
+
+### 可解释性分析
+
+CAM可视化
 
 ### 【MMDeploy】模型部署（智能手机、开发板）
 
@@ -41,9 +34,23 @@
 
 ## 目标检测
 
+### 标注自己的目标检测数据集
+
+### MS COCO预训练模型预测单张图像、视频、摄像头画面
+
+### YOLOV5训练自己的目标检测模型
+
+### 模型部署（智能手机、开发板）
+
+### MMDetection训练自己的目标检测模型
+
 ## 图像分割
 
+### 标注自己的图像分割数据集
+
 ## 关键点检测
+
+### 标注自己的关键点检测数据集
 
 ## 声音分类
 
