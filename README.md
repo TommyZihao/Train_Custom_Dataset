@@ -8,6 +8,22 @@
 
 > 本教程的数据集、代码全部免费开源，数据集图像来自网络图片，仅用于教学、科研、科普等非盈利行为。任何后果与作者无关。
 
+## 目标追踪、视频人流量计数
+
+https://www.bilibili.com/video/BV1za411Y7Zm
+
+## 文本生成
+
+https://www.bilibili.com/video/BV1W44y1g7cB
+
+## CycleGAN图像风格迁移
+
+https://www.bilibili.com/video/BV1wv4y1T71F
+
+## OCR文字识别
+
+https://www.bilibili.com/video/BV1Ua411x7dB
+
 ## 图像分类
 
 ### 构建自己的图像分类数据集
@@ -55,3 +71,5 @@ CAM可视化
 ## 声音分类
 
 ## 知识图谱
+
+
