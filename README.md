@@ -22,7 +22,7 @@
 
 [melon17_split.zip（划分训练测试集）](https://zihao-openmmlab.obs.cn-east-3.myhuaweicloud.com/20220716-mmclassification/dataset/melon17/melon17_split.zip)
 
-- Arch40建筑风格图像分类数据集
+- Arch28建筑风格图像分类数据集
 
 
 ### 【Pytorch】ImageNet预训练图像分类模型预测
