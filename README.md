@@ -1,12 +1,14 @@
 # 子豪兄带你两天搞定AI毕业设计
 
-标注自己的数据集，训练、评估、测试、部署自己的人工智能算法（两天做完毕业设计）
+标注自己的数据集，训练、评估、测试、部署自己的人工智能算法
 
 作者：同济子豪兄 https://space.bilibili.com/1900783
 
 代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
 
 > 本教程的数据集、代码全部免费开源，数据集图像来自网络图片，仅用于教学、科研、科普等非盈利行为。任何后果与作者无关。
+
+![计算机视觉解决的基本问题](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/cv_fund.png)
 
 ## 目标追踪、视频人流量计数
 
