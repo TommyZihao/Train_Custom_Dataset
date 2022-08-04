@@ -38,6 +38,8 @@ https://www.bilibili.com/video/BV1Jd4y1T7rw
 
 单张图像、视频、摄像头画面
 
+[即将更新]()
+
 ### 【Pytorch】迁移学习Fine-tune训练自己的图像分类模型
 
 迁移学习Fine-tuning训练、测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
