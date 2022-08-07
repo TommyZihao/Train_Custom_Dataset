@@ -32,15 +32,17 @@ https://www.bilibili.com/video/BV1Ua411x7dB
 
 ### 构建自己的图像分类数据集
 
+收集图像、下载样例数据集，删除系统多余文件，划分训练集、测试集，统计图像尺寸、比例分布、拍照地点位置分布，统计各类别图像数量
+
 https://www.bilibili.com/video/BV1Jd4y1T7rw
 
 ### 【Pytorch】ImageNet预训练图像分类模型预测
 
-单张图像、视频、摄像头画面
+使用Pytorch自带的预训练图像分类模型，分别对单张图像、视频、摄像头实时画面运行图像分类预测
 
-[即将更新]()
+https://www.bilibili.com/video/BV1qe4y1D7zD
 
-### 【Pytorch】迁移学习Fine-tune训练自己的图像分类模型
+### 【Pytorch】迁移学习Fine-tuning训练自己的图像分类模型
 
 迁移学习Fine-tuning训练、测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
 
