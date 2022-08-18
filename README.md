@@ -44,7 +44,17 @@ https://www.bilibili.com/video/BV1qe4y1D7zD
 
 ### 【Pytorch】迁移学习Fine-tuning训练自己的图像分类模型
 
-迁移学习Fine-tuning训练、测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
+https://www.bilibili.com/video/BV1Ng411C7WY
+
+### 【Pytorch】用训练得到的pytorch图像分类模型，识别图像、视频、摄像头画面
+
+https://www.bilibili.com/video/BV12d4y1P7xz
+
+### 测试集评估
+
+测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
+
+
 
 ### 【Pytorch】模型部署（智能手机、开发板）
 
