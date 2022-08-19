@@ -52,21 +52,23 @@ https://www.bilibili.com/video/BV12d4y1P7xz
 
 ### 测试集评估
 
-测试集评估、混淆矩阵、单张图像测试、视频测试、摄像头画面测试
+计算各类别分类评估指标，绘制混淆矩阵、PR曲线、ROC曲线。
 
-
-
-### 【Pytorch】模型部署（智能手机、开发板）
-
-### 【MMClassification】迁移学习Fine-tune训练自己的图像分类模型
+https://www.bilibili.com/video/BV1bP411j7NK
 
 ### 可解释性分析
 
 CAM可视化
 
+### 【Pytorch】模型部署（智能手机）
+
+### 【Pytorch】模型部署（TensorRT）
+
+### 【Pytorch】模型部署（服务器）
+
+### 【MMClassification】迁移学习Fine-tune训练自己的图像分类模型
+
 ### 【MMDeploy】模型部署（智能手机、开发板）
-
-
 
 ## 目标检测
 
