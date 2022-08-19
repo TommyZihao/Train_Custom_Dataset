@@ -56,6 +56,12 @@ https://www.bilibili.com/video/BV12d4y1P7xz
 
 https://www.bilibili.com/video/BV1bP411j7NK
 
+### 测试集语义特征降维可视化
+
+抽取Pytorch训练得到的图像分类模型中间层的输出特征，作为输入图像的语义特征。计算测试集所有图像的语义特征，使用t-SNE和UMAP两种降维方法降维至二维和三维，可视化。
+
+https://www.bilibili.com/video/BV1VB4y1z7xN
+
 ### 可解释性分析
 
 CAM可视化
