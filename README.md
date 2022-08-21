@@ -6,28 +6,11 @@
 
 代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
 
-
 > 本教程的数据集、代码、视频，倾注了子豪兄大量时间和心血，如果知识付费，卖两三千并不为过，但本着开源精神，全部免费开源，但仅可被用于教学、科研、科普等非盈利用途，并在转载引用时注明出处。
 
 ![计算机视觉解决的基本问题](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/cv_fund.png)
 
 [优雅地感谢子豪兄](https://github.com/TommyZihao/zihao_commercial)
-
-## 目标追踪、视频人流量计数
-
-https://www.bilibili.com/video/BV1za411Y7Zm
-
-## 大模型摘要生成
-
-https://www.bilibili.com/video/BV1W44y1g7cB
-
-## CycleGAN图像风格迁移
-
-https://www.bilibili.com/video/BV1wv4y1T71F
-
-## OCR文字识别
-
-https://www.bilibili.com/video/BV1Ua411x7dB
 
 ## 图像分类
 
@@ -65,40 +48,26 @@ https://www.bilibili.com/video/BV1VB4y1z7xN
 
 ### 可解释性分析
 
-CAM可视化
+CAM类激活热力图可视化、Captum可解释性分析
 
-### 【Pytorch】模型部署（智能手机）
+### 答疑交流群
 
-### 【Pytorch】模型部署（TensorRT）
+子豪兄图像分类答疑交流群（有问必答）：https://zdb.h5.xeknow.com/s/3MPxbI
 
-### 【Pytorch】模型部署（服务器）
+## 目标追踪、视频人流量计数
 
-### 【MMClassification】迁移学习Fine-tune训练自己的图像分类模型
+https://www.bilibili.com/video/BV1za411Y7Zm
 
-### 【MMDeploy】模型部署（智能手机、开发板）
+## 大模型摘要生成
 
-## 目标检测
+https://www.bilibili.com/video/BV1W44y1g7cB
 
-### 标注自己的目标检测数据集
+## CycleGAN图像风格迁移
 
-### MS COCO预训练模型预测单张图像、视频、摄像头画面
+https://www.bilibili.com/video/BV1wv4y1T71F
 
-### YOLOV5训练自己的目标检测模型
+## OCR文字识别
 
-### 模型部署（智能手机、开发板）
-
-### MMDetection训练自己的目标检测模型
-
-## 图像分割
-
-### 标注自己的图像分割数据集
-
-## 关键点检测
-
-### 标注自己的关键点检测数据集
-
-## 声音分类
-
-## 知识图谱
+https://www.bilibili.com/video/BV1Ua411x7dB
 
 
