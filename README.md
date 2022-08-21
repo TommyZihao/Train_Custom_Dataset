@@ -7,11 +7,11 @@
 代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
 
 
-> 本教程的数据集、代码、视频，倾注了子豪兄大量时间和心血，如果知识付费，卖两三千并不为过，但本着开源精神，全部免费开源，但请勿用于商业盈利用途，并在转载引用时注明出处。[优雅地感谢子豪兄](https://github.com/TommyZihao/zihao_commercial)
-
-> 样例数据集图像来自网络图片，仅用于教学、科研、科普等非盈利行为。任何后果与作者无关。
+> 本教程的数据集、代码、视频，倾注了子豪兄大量时间和心血，如果知识付费，卖两三千并不为过，但本着开源精神，全部免费开源，但仅可被用于教学、科研、科普等非盈利用途，并在转载引用时注明出处。
 
 ![计算机视觉解决的基本问题](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/cv_fund.png)
+
+[优雅地感谢子豪兄](https://github.com/TommyZihao/zihao_commercial)
 
 ## 目标追踪、视频人流量计数
 
