@@ -52,7 +52,7 @@ CAM类激活热力图可视化、Captum可解释性分析
 
 ### 答疑交流群
 
-子豪兄图像分类答疑交流群（有问必答）：https://zdb.h5.xeknow.com/s/3MPxbI
+[子豪兄图像分类答疑交流群（有问必答）](https://zdb.h5.xeknow.com/s/3MPxbI)
 
 ## 目标追踪、视频人流量计数
 
