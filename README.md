@@ -46,13 +46,14 @@ https://www.bilibili.com/video/BV1bP411j7NK
 
 https://www.bilibili.com/video/BV1VB4y1z7xN
 
-### 可解释性分析
-
-CAM类激活热力图可视化、Captum可解释性分析
 
 ### 答疑交流群
 
 [子豪兄图像分类答疑交流群（有问必答）](https://zdb.h5.xeknow.com/s/3MPxbI)
+
+## 单目标追踪（蜜蜂追踪）
+
+https://www.bilibili.com/video/BV1za411Y7Zm
 
 ## 视频人流量计数+足迹追踪
 
