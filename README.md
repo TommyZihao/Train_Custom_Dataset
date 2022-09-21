@@ -46,6 +46,9 @@ https://www.bilibili.com/video/BV1bP411j7NK
 
 https://www.bilibili.com/video/BV1VB4y1z7xN
 
+### 可解释性分析、显著性分析
+
+CAM热力图系列算法：https://www.bilibili.com/video/BV1JG4y1s74x
 
 ### 答疑交流群
 
