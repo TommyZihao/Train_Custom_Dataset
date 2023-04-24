@@ -8,7 +8,7 @@
 
 ## 标注关键点检测数据集
 
-## labelme格式标注转`YOLO`格式和`MS COCO`格式
+## labelme格式标注转`YOLO格式`和`MS COCO格式`
 
 ## YOLOV8训练关键点检测算法
 
