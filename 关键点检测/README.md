@@ -8,6 +8,10 @@
 
 ## 标注关键点检测数据集
 
+视频：https://www.bilibili.com/video/BV19g4y1777q
+
+手带你使用业界通用标注工具Labelme，标注框、点、多段线，形成“30度直角三角板关键点检测样例数据集”。进而，解读labelme标注文件，使用OpenCV可视化标注信息，探索挖掘数据集标注特征。
+
 ## Labelme格式标注转`YOLO格式`和`MS COCO格式`
 
 ## YOLOV8训练关键点检测算法
