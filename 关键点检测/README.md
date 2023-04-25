@@ -16,11 +16,11 @@
 
 ## Labelme格式标注转换为YOLO格式标注
 
-视频：
+视频：https://www.bilibili.com/video/BV1QX4y1B7eF
 
 ## Labelme格式标注转换为MS COCO格式标注
 
-视频：
+视频：https://www.bilibili.com/video/BV1vc411J7GC
 
 ## YOLOV8训练关键点检测算法
 
