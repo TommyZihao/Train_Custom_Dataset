@@ -22,7 +22,19 @@
 
 视频：https://www.bilibili.com/video/BV1vc411J7GC
 
-## YOLOV8训练关键点检测算法
+## YOLOV8关键点检测-预训练模型预测
+
+https://www.bilibili.com/video/BV1yg4y177ef
+
+使用YOLOV8预训练关键点检测（人体姿态估计）模型，通过命令行和Python API，分别对图像、视频、摄像头实时画面，进行推理预测，解析17个人体关键点的预测结果，并将预测结果自定义可视化。
+
+## YOLOV8关键点检测-训练
+
+## YOLOV8关键点检测-评估
+
+## YOLOV8关键点检测-预测
+
+## YOLOV8关键点检测-部署
 
 ## RTMPose训练关键点检测算法
 
