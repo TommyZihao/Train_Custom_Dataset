@@ -1,0 +1,15 @@
+# 数据集在 datasets 目录下的文件夹路径
+path: Triangle_215_Keypoint_YOLO
+
+# 训练集、验证集、测试集相对于 path 的路径（一般不用区分验证集和测试集，统称测试集）
+train: images/train
+val: images/val
+test: images/val
+
+# 3 种关键点，每个关键点有 X Y 是否可见 三个参数
+# 是否可见：2-可见不遮挡 1-遮挡 0-没有点
+kpt_shape: [3, 3]
+
+# 框的类别（对于关键点检测，只有一类）
+names:
+  0: sjb_rect
