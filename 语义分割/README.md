@@ -1,3 +1,1 @@
-# 即将于2023年5月发布，敬请期待
-
-催更请私信：B站同济子豪兄
+https://github.com/TommyZihao/MMSegmentation_Tutorials
